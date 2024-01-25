@@ -1,0 +1,11 @@
+E:\Информатика\ООП\ЛР 4\bin\Debug\ЛР 4.exe.config
+E:\Информатика\ООП\ЛР 4\bin\Debug\ЛР 4.exe
+E:\Информатика\ООП\ЛР 4\bin\Debug\ЛР 4.pdb
+E:\Информатика\ООП\ЛР 4\obj\Debug\ЛР 4.csproj.AssemblyReference.cache
+E:\Информатика\ООП\ЛР 4\obj\Debug\ЛР 4.csproj.SuggestedBindingRedirects.cache
+E:\Информатика\ООП\ЛР 4\obj\Debug\ЛР_4.Form1.resources
+E:\Информатика\ООП\ЛР 4\obj\Debug\ЛР_4.Properties.Resources.resources
+E:\Информатика\ООП\ЛР 4\obj\Debug\ЛР 4.csproj.GenerateResource.cache
+E:\Информатика\ООП\ЛР 4\obj\Debug\ЛР 4.csproj.CoreCompileInputs.cache
+E:\Информатика\ООП\ЛР 4\obj\Debug\ЛР 4.exe
+E:\Информатика\ООП\ЛР 4\obj\Debug\ЛР 4.pdb
